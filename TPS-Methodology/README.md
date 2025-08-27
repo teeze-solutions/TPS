@@ -125,8 +125,8 @@ At its broadest scope, the **TeeZe Prompting System (TPS)**, guided by its Metho
 
 ---
 ## Additional Resources
-*   **For practical implementation tools, templates, and guided examples, consult the [TeeZe Prompting Toolkit README](link-to-tps-toolkit-readme) (Apache 2.0 Licensed).**
-*   **Discover the Core System:** Get the full overview at the [TeeZe Prompting System README](link-to-tps-system-readme).
+*   **For practical implementation tools, templates, and guided examples, consult the [TeeZe Prompting Toolkit](https://github.com/teeze-solutions/TPS/tree/main/TPS-Toolkit) (Apache 2.0 Licensed).**
+*   **Discover the Core System:** Get the full overview at the [TeeZe Prompting System](https://github.com/teeze-solutions/TPS/tree/main).
 ---
 ##   Copyright Notice:
 Copyright (c) 2025 TeeZe Solutions, LLC

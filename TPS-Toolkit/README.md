@@ -10,7 +10,7 @@ The **TeeZe Prompting Toolkit (TPS Toolkit)** serves as the machine-readable com
 
 ### Initiating Your TPS Journey: A Structured Progression
 
-1.  **Conceptual Grasp:** Begin by thoroughly reviewing the [TeeZe Prompting Methodology README](link-to-tps-methodology-readme) to internalize the underlying philosophical and cognitive framework that guides interaction design.
+1.  **Conceptual Grasp:** Begin by thoroughly reviewing the [TeeZe Prompting Methodology](https://github.com/teeze-solutions/TPS/tree/main/TPS-Methodology) to internalize the underlying philosophical and cognitive framework that guides interaction design.
 2.  **Tier 1 Application:** Commence with the Tier 1 templates for immediate improvements in the clarity and efficacy of direct AI interactions.
 3.  **Tier 2 Implementation:** Progress to Tier 2 frameworks when tasks demand more structured, multi-step approaches with defined roles and deliverables.
 4.  **Tier 3 Exploration:** Engage with Tier 3 paradigms for complex, ambiguous challenges requiring iterative collaboration and emergent solution development.
@@ -225,8 +225,8 @@ Execute your function autonomously or in collaboration with the user, adhering s
 
 ## Additional Resources
 
-*   **Explore Methodology:** Understand the human side of interaction at the [TeeZe Prompting Methodology README](link-to-tps-methodology-readme).
-*   **Discover the Core System:** Get the full overview at the [TeeZe Prompting System README](link-to-tps-system-readme).
+*   **Explore Methodology:** Understand the human side of interaction at the [TeeZe Prompting Methodology](https://github.com/teeze-solutions/TPS/tree/main/TPS-Methodology).
+*   **Discover the Core System:** Get the full overview at the [TeeZe Prompting System README](https://github.com/teeze-solutions/TPS/tree/main).
 
 ---
 ## Copyright Notice

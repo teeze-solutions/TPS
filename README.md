@@ -40,13 +40,13 @@ The **TeeZe Prompting System (TPS)** is built upon two integrated pillars, guide
     *   **Focus:** The human side of the shared vocabulary.
     *   **Function:** Provides the principles, decision frameworks, and tiered interaction structure (Direct Instruction, Structured Framework, Interactive Development). It guides the user's thinking on how to approach AI interaction based on task complexity and ethical considerations, drawing on concepts of **cognitive scaffolding**.
     *   **Role:** Acts as cognitive scaffolding for the user, preparing intent to be communicated effectively.
-    *   **Learn More:** Explore the full details in the [`TPS-Methodology/README.md`](docs/TPS-Methodology/README.md).
+    *   **Learn More:** Explore the full details in the [`TPS-Methodology`](https://github.com/teeze-solutions/TPS/tree/main/TPS-Methodology).
 
 2.  **TeeZe Prompting Toolkit (TPS Toolkit)** *(Licensed under Apache 2.0)*:
     *   **Focus:** The machine side of the shared vocabulary.
     *   **Function:** Provides practical tools, templates, and structured components (like System Prompts, Role Definitions, Constraint Definitions) that constitute the AI's understanding and operationalization of the shared vocabulary. This includes systematizing techniques like **role-playing**, **constraint-based generation**, and **output format specification**.
     *   **Role:** Translates human intent into machine-interpretable directives, enabling the AI to execute tasks within the defined framework and activate the **TPS-EMF**.
-    *   **Explore Tools:** Access the practical implementation resources in the [`TPS-Toolkit/README.md`](docs/TPS-Toolkit/README.md).
+    *   **Explore Tools:** Access the practical implementation resources in the [`TPS-Toolkit`](https://github.com/teeze-solutions/TPS/tree/main/TPS-Toolkit).
 
 ### The TeeZe Prompting System Framework (TPS-F)
 
