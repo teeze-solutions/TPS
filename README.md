@@ -53,3 +53,5 @@ The **TeeZe Prompting System (TPS)** is built upon two integrated pillars, guide
 Underpinning these components is the **TeeZe Prompting System Framework (TPS-F)**, which formalizes the tiered approach (Direct Instruction, Structured Framework, Interactive Development) and modular design principles, creating a robust, systematic, and ethically-conscious interaction system.
 
 The TeeZe Prompting System empowers users to engage with LLMs more effectively and responsibly, transforming AI interactions from unpredictable encounters into structured, reliable collaborations.
+
+### Developed by TeeZe Solutions, LLC.
