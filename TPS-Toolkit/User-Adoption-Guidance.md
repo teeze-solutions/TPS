@@ -1,8 +1,8 @@
-[< Back to the TPS Toolkit](./TPS-Toolkit/README.md)
+[< Back to the TPS Toolkit](./README.md)
 
 # TPS User Adoption Guidance
 
-This document provides a comprehensive guide for integrating the TeeZe Prompting System (TPS) into your workflows, from individual use to enterprise-level deployment. It is intended for users who understand the basics of the [TPS Methodology](../README.md) and are ready to apply the system in practical, scalable ways.
+This document provides a comprehensive guide for integrating the TeeZe Prompting System (TPS) into your workflows, from individual use to enterprise-level deployment. It is intended for users who understand the basics of the [TPS Methodology](../TPS-MethodologyREADME.md) and are ready to apply the system in practical, scalable ways.
 
 ---
 
