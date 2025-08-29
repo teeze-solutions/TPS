@@ -61,8 +61,18 @@ Communication isn't just about clarity; it's about responsibility. TPS includes 
 
 By creating a shared language and embedding ethical guardrails, the TeeZe Prompting System transforms unpredictable AI chats into reliable, structured collaborations.
 
+---
+
+## Related Projects
+
+> ### From Practice to Theory
+> The TeeZe Prompting System is our practical framework for effective AI interaction. For those interested in the academic and philosophical underpinnings of AI cognition, we are also developing ***Lingua ad Intellegendum***.
+>
+> It is a scholarly project to create a precise Latin taxonomy for describing the cognitive phenomena observed in LLMs, providing a research-grade vocabulary for the concepts TPS helps you navigate.
+>
+> **[Check out the Lingua ad Intellegendum repository here.](https://github.com/teeze-solutions/Lingua-aI)**
+
 <p align="center">
-  ---
   <br>
   Developed & Maintained by
   <br>
