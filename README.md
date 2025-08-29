@@ -45,10 +45,10 @@ A simple guide to help you think clearly about *what* you want and *how* to ask 
 A collection of copy-paste-ready prompts that give the AI the exact same "definitions" you're using. This translates your organized thoughts into a language the AI is optimized to understand.
 
 <p align="center">
-  <a href="docs/TPS-Methodology/README.md">
+  <a href="TPS-Methodology/README.md">
     <img src="https://img.shields.io/badge/Learn_the-Methodology-blue?style=for-the-badge" alt="Methodology Guide">
   </a>
-  <a href="docs/TPS-Toolkit/README.md">
+  <a href="TPS-Toolkit/README.md">
     <img src="https://img.shields.io/badge/Get_the-Toolkit-green?style=for-the-badge" alt="Toolkit Templates">
   </a>
 </p>
