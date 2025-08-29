@@ -1,4 +1,4 @@
-# TeeZe Prompting System (TPS): A Shared Vocabulary for Clearer AI Communication
+# TeeZe Prompting System™ (TPS): A Shared Vocabulary for Clearer AI Communication
 
 <p align="left">
   <a href="TPS-Methodology/LICENSE"><img src="https://img.shields.io/badge/Methodology-CC%20BY%204.0-lightgrey" alt="Methodology License: CC BY 4.0"></a>
