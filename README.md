@@ -1,4 +1,4 @@
-# TeeZe Prompting System™ (TPS): A Shared Vocabulary for Clearer AI Communication
+# TeeZe Prompting System (TPS): A Shared Vocabulary for Clearer AI Communication
 
 <p align="left">
   <a href="TPS-Methodology/LICENSE"><img src="https://img.shields.io/badge/Methodology-CC%20BY%204.0-lightgrey" alt="Methodology License: CC BY 4.0"></a>
@@ -59,17 +59,31 @@ A collection of copy-paste-ready prompts that give the AI the exact same "defini
 
 Communication isn't just about clarity; it's about responsibility. TPS includes a built-in **Ethical Monitoring Function (EMF)**. This acts as the "rules of the road" for your AI interactions, ensuring the conversation stays helpful, harmless, and fair. The EMF is automatically activated when you use the TPS Toolkit.
 
-By creating a shared language and embedding ethical guardrails, the TeeZe Prompting System transforms unpredictable AI chats into reliable, structured collaborations.
+---
+
+## Community & Contributing
+
+TPS is an open project, and we welcome community involvement.
+
+*   **🗣️ Discuss Ideas & Share Use Cases:** Have a new idea or want to show how you're using TPS? Join us in **[GitHub Discussions](https://github.com/teeze-solutions/TPS/discussions)**.
+*   **🐛 Report Bugs & Suggest Enhancements:** Found a typo or have a specific suggestion? Please **[open an issue](https://github.com/teeze-solutions/TPS/issues)**.
+*   **🤝 Learn How to Contribute:** Please read our **[Contributing Guide](CONTRIBUTING.md)** before submitting a pull request.
+
+All community interactions are governed by our **[Code of Conduct](CODE_OF_CONDUCT.md)**.
 
 ---
 
 ## Related Projects
 
 > ### From Practice to Theory
-> The TeeZe Prompting System is our practical framework for effective AI interaction...
+> The TeeZe Prompting System is our practical framework for effective AI interaction. For those interested in the academic and philosophical underpinnings of AI cognition, we are also developing ***Lingua ad Intellegendum***.
+>
+> It is a scholarly project to create a precise Latin taxonomy for describing the cognitive phenomena observed in LLMs, providing a research-grade vocabulary for the concepts TPS helps you navigate.
+>
 > **[Check out the Lingua ad Intellegendum repository here.](https://github.com/teeze-solutions/Lingua-aI)**
 
 <p align="center">
+  ---
   <br>
   <a href="ACKNOWLEDGMENTS.md">Acknowledgments</a>
   <br><br>
