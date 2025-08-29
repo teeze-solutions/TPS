@@ -89,5 +89,5 @@ All community interactions are governed by our **[Code of Conduct](CODE_OF_CONDU
   <br><br>
   Developed & Maintained by
   <br>
-  <a href="https://teezesolutions.ai"><b>TeeZe Solutions LLC</b></a>
+  <a href="https://www.teezesolutions.ai"><b>TeeZe Solutions LLC</b></a>
 </p>
