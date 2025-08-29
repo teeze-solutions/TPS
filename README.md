@@ -1,8 +1,8 @@
 # TeeZe Prompting System™ (TPS): A Shared Vocabulary for Clearer AI Communication
 
 <p align="left">
-  <a href="TPS-Methodology/LICENSE"><img src="https://img.shields.io/badge/Methodology-CC%20BY%204.0-lightgrey" alt="Methodology License: CC BY 4.0"></a>
-  <a href="TPS-Toolkit/LICENSE"><img src="https://img.shields.io/badge/Toolkit-Apache%202.0-blue" alt="Toolkit License: Apache 2.0"></a>
+  <a href="docs/TPS-Methodology/LICENSE"><img src="https://img.shields.io/badge/Methodology-CC%20BY%204.0-lightgrey" alt="Methodology License: CC BY 4.0"></a>
+  <a href="docs/TPS-Toolkit/LICENSE"><img src="https://img.shields.io/badge/Toolkit-Apache%202.0-blue" alt="Toolkit License: Apache 2.0"></a>
 </p>
 
 Have you ever asked an AI for something specific and gotten a completely unexpected result? This isn't a failure of intelligence; it's a **communication problem**. Human language is ambiguous, and without a shared understanding, conversations with AI are unpredictable.
