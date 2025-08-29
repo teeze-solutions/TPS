@@ -74,7 +74,7 @@ For any serious or continuous use of TPS, the **Master System Prompt** is the co
 
 > The System Prompt is not just a template; it's a configuration file for the AI's "operating system." It loads the Moral Compass (EMF) and the definitions of all three Tiers into the AI's context.
 
-By customizing the `Persona`, `Constraints`, and `Directives` in the System Prompt, you can create highly specialized and reliable AI collaborators for any domain.
+By customizing the `Persona`, `Constraints`, and `Directives` in the System Prompt, you can create highly specialized and more reliable AI collaborators across different domains.
 
 <p align="center">
   <a href="./TPS-System-Prompt-Template.md">
